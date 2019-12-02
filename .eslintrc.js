@@ -8,7 +8,7 @@ module.exports = {
     'plugin:jest/style',
     'plugin:node/recommended',
     'plugin:promise/recommended',
-    'plugin:prettier/recommended',
+    'prettier',
   ],
   rules: {
     '@typescript-eslint/indent': ['error', 2],
@@ -30,6 +30,7 @@ module.exports = {
         'newlines-between': 'always',
       },
     ],
+    'import/newline-after-import': 'off',
   },
   env: {
     'jest/globals': true,
