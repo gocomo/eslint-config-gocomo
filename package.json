@@ -1,6 +1,6 @@
 {
   "name": "@gocomo/eslint-config-gocomo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gocomo ESLint and Prettier Config",
   "keywords": [],
   "main": "index.js",
