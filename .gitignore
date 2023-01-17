@@ -95,6 +95,10 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# package manager
+.yarn
+.yarnrc.yml
+
 # dotenv environment variables file
 .env
 .env.test
