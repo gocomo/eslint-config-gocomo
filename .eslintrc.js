@@ -42,7 +42,7 @@ module.exports = {
     'jest/globals': true,
   },
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 2021,
     sourceType: 'module',
   },
   settings: {
